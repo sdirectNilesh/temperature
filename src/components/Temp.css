@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    padding-top: 10%;
+    margin: auto;
+    border-radius: 15%;
+    align-items: center;
+    height: 80vh;
+    width: 900px;
+    background-color: rgb(95, 149, 160);
+    background: url("https://media.istockphoto.com/id/1225639749/vector/weather-icons-set.jpg?s=612x612&w=0&k=20&c=7EbuC4dBLWOEWMBiJSSDZCyIfNAAnn3K0Gzm-n1AaXI=");
+}
+
+.center {
+    background: rgb(255, 255, 255);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top:100px;
+    margin-left: 350px;
+}
+
+
+.btn{
+    margin-top: 20px;
+    margin-right: 10px;
+    width: 80px;
+    border-radius: 20%;
+    background-color: brown;
+}
